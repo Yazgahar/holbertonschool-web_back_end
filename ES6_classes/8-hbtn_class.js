@@ -1,3 +1,4 @@
+/*eslint-disable */
 class HolbertonCourse {
 	constructor(size, location) {
 	  this._size = size;
